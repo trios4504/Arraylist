@@ -1,0 +1,12 @@
+/Users/thomas/Desktop/Holding/CS 133 Projects/Arraylist/Arraylist/obj/Debug/netcoreapp3.1/Arraylist.csprojAssemblyReference.cache
+/Users/thomas/Desktop/Holding/CS 133 Projects/Arraylist/Arraylist/obj/Debug/netcoreapp3.1/Arraylist.AssemblyInfoInputs.cache
+/Users/thomas/Desktop/Holding/CS 133 Projects/Arraylist/Arraylist/obj/Debug/netcoreapp3.1/Arraylist.AssemblyInfo.cs
+/Users/thomas/Desktop/Holding/CS 133 Projects/Arraylist/Arraylist/obj/Debug/netcoreapp3.1/Arraylist.csproj.CoreCompileInputs.cache
+/Users/thomas/Desktop/Holding/CS 133 Projects/Arraylist/Arraylist/bin/Debug/netcoreapp3.1/Arraylist.deps.json
+/Users/thomas/Desktop/Holding/CS 133 Projects/Arraylist/Arraylist/bin/Debug/netcoreapp3.1/Arraylist.runtimeconfig.json
+/Users/thomas/Desktop/Holding/CS 133 Projects/Arraylist/Arraylist/bin/Debug/netcoreapp3.1/Arraylist.runtimeconfig.dev.json
+/Users/thomas/Desktop/Holding/CS 133 Projects/Arraylist/Arraylist/bin/Debug/netcoreapp3.1/Arraylist.dll
+/Users/thomas/Desktop/Holding/CS 133 Projects/Arraylist/Arraylist/bin/Debug/netcoreapp3.1/Arraylist.pdb
+/Users/thomas/Desktop/Holding/CS 133 Projects/Arraylist/Arraylist/obj/Debug/netcoreapp3.1/Arraylist.dll
+/Users/thomas/Desktop/Holding/CS 133 Projects/Arraylist/Arraylist/obj/Debug/netcoreapp3.1/Arraylist.pdb
+/Users/thomas/Desktop/Holding/CS 133 Projects/Arraylist/Arraylist/obj/Debug/netcoreapp3.1/Arraylist.genruntimeconfig.cache
